@@ -6,3 +6,4 @@ public import Batteries.Data.Float.Lemmas.Arithmetic
 public import Batteries.Data.Float.Lemmas.Basic
 public import Batteries.Data.Float.Lemmas.Order
 public import Batteries.Data.Float.Rat
+public import Batteries.Data.Float.Scale
